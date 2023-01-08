@@ -9,7 +9,7 @@ html {
 }
 
 body {
-    background: rgba(226,226,226,0.39);
+    background: #F5F5F5;
     display: flex;
     justify-content: center;
     align-items: center;
