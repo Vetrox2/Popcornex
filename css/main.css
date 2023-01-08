@@ -1395,6 +1395,9 @@ a.Button:not(:hover) p {
         text-align: left;
         color: #FFFFFF;
     }
+    .img1 {
+        width: 25%;
+    }
 }
 
 @media only screen and (min-width:1024px) and (max-width: 1300px) {
@@ -1525,6 +1528,9 @@ a.Button:not(:hover) p {
     .Section2{
         gap:70px;
     }
+    .img1 {
+        width: 30%;
+    }
 
 }
 @media only screen and (min-width:1300px) and (max-width: 1439px) {
@@ -1569,6 +1575,10 @@ a.Button:not(:hover) p {
     .T_Small {
         font-size: 34px;
     }
+    .img1 {
+        width: 30%;
+    }
+   
 }
 @media only screen and (min-width:1700px){
     .Section1 {
@@ -1606,5 +1616,8 @@ a.Button:not(:hover) p {
     }
     .Menu_Desktop {
         padding: 22px 180px;
+    }
+    .img1{
+        width:22%;
     }
 }
