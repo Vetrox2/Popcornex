@@ -1140,7 +1140,7 @@ a.Button:not(:hover) p {
         height: fit-content;
     }
 
-        .Section2 > .Button {
+        .Section2_1 > .Button {
             visibility: visible;
         }
 
