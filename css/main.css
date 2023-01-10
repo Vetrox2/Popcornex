@@ -1149,7 +1149,7 @@ a.Button:not(:hover) p {
     }
 
     .Frame2 img {
-        width: 100%;
+        width: 55%;
         object-fit: cover;
     }
 
