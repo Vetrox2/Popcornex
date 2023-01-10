@@ -1149,7 +1149,7 @@ a.Button:not(:hover) p {
     }
 
     .Frame2 img {
-        width: 55%;
+        width: 40%;
         object-fit: cover;
     }
 
@@ -1193,7 +1193,7 @@ a.Button:not(:hover) p {
     }
 
     .Frame2_2 {
-        gap: 68px;
+        gap: 30px;
     }
 
     .Frame2_3_1 {
